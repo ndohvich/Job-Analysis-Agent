@@ -1,0 +1,412 @@
+{
+  "metadata": {
+    "total_jobs_collected": 20,
+    "keywords_used": [
+      "Python Developer",
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "DevOps Engineer",
+      "Full Stack Developer"
+    ],
+    "locations_searched": [
+      "Paris",
+      "Lyon",
+      "Toulouse",
+      "Nantes"
+    ],
+    "analysis_date": "2025-08-12T17:06:34.957106"
+  },
+  "market_analysis": {
+    "total_jobs": 20,
+    "top_technologies": {
+      "R": 9,
+      "Go": 6,
+      "Java": 3,
+      "Rust": 1
+    },
+    "top_frameworks": {},
+    "top_certifications": {
+      "Docker": 2,
+      "Kubernetes": 2,
+      "DevOps": 1,
+      "Cisco": 1
+    },
+    "top_companies": {
+      "": 20
+    },
+    "top_locations": {
+      "": 20
+    },
+    "salary_analysis": {
+      "total_with_salary": 0,
+      "percentage_with_salary": 0.0,
+      "salary_ranges": {}
+    },
+    "recruiter_insights": {
+      "total_with_recruiter_info": 0,
+      "percentage_with_recruiter_info": 0.0,
+      "top_recruiters": {}
+    }
+  },
+  "ai_recommendations": {
+    "top_skills_to_learn": [
+      {
+        "technology": "R",
+        "job_count": 9,
+        "priority": "Medium"
+      },
+      {
+        "technology": "Go",
+        "job_count": 6,
+        "priority": "Medium"
+      },
+      {
+        "technology": "Java",
+        "job_count": 3,
+        "priority": "Low"
+      },
+      {
+        "technology": "Rust",
+        "job_count": 1,
+        "priority": "Low"
+      }
+    ],
+    "emerging_technologies": [],
+    "certification_priorities": [
+      {
+        "certification": "Docker",
+        "demand_level": 2,
+        "estimated_roi": "Medium ROI (10-20% salary increase potential)"
+      },
+      {
+        "certification": "Kubernetes",
+        "demand_level": 2,
+        "estimated_roi": "Medium ROI (10-20% salary increase potential)"
+      },
+      {
+        "certification": "DevOps",
+        "demand_level": 1,
+        "estimated_roi": "Medium ROI (10-20% salary increase potential)"
+      },
+      {
+        "certification": "Cisco",
+        "demand_level": 1,
+        "estimated_roi": "Variable ROI (5-15% salary increase potential)"
+      }
+    ],
+    "market_opportunities": [
+      {
+        "location": "",
+        "job_availability": 20,
+        "market_attractiveness": "Medium"
+      }
+    ],
+    "recruiter_networking_tips": [
+      "Optimisez votre profil LinkedIn avec les technologies les plus demandées",
+      "Participez à des événements tech dans les villes avec le plus d'opportunités",
+      "Obtenez des certifications dans les domaines les plus recherchés",
+      "Développez des projets portfolio utilisant les frameworks populaires",
+      "Rejoignez des communautés professionnelles liées aux technologies émergentes"
+    ]
+  },
+  "raw_jobs_data": [
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "At Corsearch, we are dedicated to creating a world where consumers can trust the choices they make.",
+      "technologies": [
+        "Rust",
+        "R"
+      ],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/python-developer-at-corsearch-4265344286?position=1&pageNum=0&refId=bgmOaZR0gn1jKErUOjA5fA%3D%3D&trackingId=5nBwSM1Azh%2BvO7oCsNyUcw%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "Passionné par la Data et l’innovation à base d’Intelligence Artificielle, vous souhaitez rejoindre une communauté d’experts dans le domaine afin de développer vos compétences en Architecture, Data Engineering et Data Science/IA. Aubay Data & AI, cabinet spécialisé Data de Aubay, renforce ses équipes et recherche des ML Engineers (H/F) pour accompagner nos clients dans l’industrialisation de leurs travaux Data Science/IA afin de leur permettre de concrétiser leur stratégie Data.",
+      "technologies": [
+        "R"
+      ],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/ml-engineer-f-h-at-aubay-3927669539?position=1&pageNum=0&refId=B42q3uhjwubYz5kzEUjVHQ%3D%3D&trackingId=SPnM18%2BYJ88ne%2FoPdK4M5Q%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/ai-ml-engineer-at-lago-4257098466?position=1&pageNum=0&refId=KBCSZhZWXxbI55oh%2B8ru6Q%3D%3D&trackingId=iUIH1edwOk3t08Wl6zMz%2Fg%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "DevOps | Cloud Engineer\n\n\nJus Mundi Is Hiring!\n\nDevOps | Cloud Engineer\n\n\n\nBuilt on groundbreaking technology, Jus Mundi was shaped by former lawyers and tech visionaries. Using sophisticated AI, our arbitration intelligence platform taps into the world's largest arbitration and international law database, offering unparalleled access to treaties, case law, and publications from around the world. Beyond providing access, it drives accessibility, ensuring every individual and professional is equipped with democratized arbitration tools. That’s why we developed Jus Connect, our sister platform, to further harness our technological prowess and streamline the selection of conflict-free arbitration professionals while building up data-backed business development opportunities. Jus Mundi's platforms form a nexus, creating an interconnected legal ecosystem that pioneers the synergy of arbitration, law, and technology. This synergy is powering the future of global justice.\n\n\n\nJoin Jus Mundi – To Power Global Justice 🚀⚖️\n\nFounded in 2019 and recognized as a mission-led company, is pioneering legal technology to power global justice through artificial intelligence. 🌍 Headquartered in Paris, with additional offices in New York, London, and Singapore, Jus Mundi serves over 150,000 users, including top law firms, multinational corporations, government bodies, and academic institutions in more than 80 countries. By combining legal expertise with cutting-edge AI technology, we provide global legal intelligence, data-driven arbitration professional selection, and business development services.\n\n🌟\n\n\n\n📌 About the Role\n\nJus Mundi is looking for a full-time DevOps | Cloud Engineer to join the team. We want you to be part of a team of passionate people who are always ready to help each other. This position is based in with a very .\n\nIn the Tech/R&D department, you will help build, maintain, and scale our infrastructure with automation at the heart of everything you do.\n\nWe take pride in our very open-minded approach to employees' contributions: you’ll contribute to improving our systems and processes to support the continuous growth of\n\n🌟Your mission at Jus Mundi\n\n\n\n\n\nHere is a snippet of what technologies you will find at Jus Mundi:\n\n\n\nBut as we are explorers, we are open to new methods and technologies.\n\n\n\n⚙️ Preferred Experience and Skills\n\n\n\n\n\n\n\nRecruitment Process\n\n🔄 Interview process\n\nWe’re proud of our multicultural team representing 37 nationalities! To ensure smooth communication, please apply in English.\n\n\n\nNeed More Reasons to Join Us? ✨\n\n\n\n\n\nAdditional Information\n\n\n\nSounds like something made for you?\n\nApply Now",
+      "technologies": [
+        "Go",
+        "R"
+      ],
+      "frameworks": [],
+      "certifications": [
+        "DevOps"
+      ],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/devops-cloud-engineer-at-jus-connect-4278751994?position=1&pageNum=0&refId=5lTl52fErMgCTM7xaisb8Q%3D%3D&trackingId=FCLETLdjNMROL%2BIpgpbOOg%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "We're looking for Full-Stack Developers to join our quickly growing team and help us invent how we learn about the world in VR.\n\nYour goal is to design, architect & implement applications to support our ambition to build the largest collection of educational and documentary immersive VR content.\n\nYou will work in feature team and should be comfortable with autonomy and ownership of large areas of the product.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nASAP\n\n\n\nAt Wonda VR, we are on a mission to revolutionize how we discover and learn about the world around us.\n\nFounded by an award-winning team of creative storytellers and software engineers, we design intuitive tools and robust solutions to make the most of emerging VR, AR & MR technologies.\n\nOur flagship product: Wonda VR Studio & Publishing Suite, is an all-in-one mobile/desktop application to create and share immersive learning & discovery experiences easily and beautifully on all platforms.\n\nIn 1 year, our platform has been chosen by over 5,000 creators, educators and communicators working for top brands and institutions such as Ebay, Cisco, NYU, Pearson or Harvard University.",
+      "technologies": [
+        "Go",
+        "R"
+      ],
+      "frameworks": [],
+      "certifications": [
+        "Cisco"
+      ],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/full-stack-developers-at-wonda-4121502195?position=1&pageNum=0&refId=wHuqqcatZ9hBH%2FudyK6i%2Fw%3D%3D&trackingId=JVcO68bqhmSD0aYdoypWPg%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "L’équipe Tech s’agrandit et recherche son/sa futur·e Backend Engineer Junior.\n\nBatch est une destinée aux grandes entreprises du secteur B2C (retail, médias, luxe, banques, services) avec des millions de profils clients.\n\nBatch permet aux équipes marketing de recueillir et d’unifier la donnée client partout où elle se trouve via des APIs et des SDKs, de communiquer nativement via tous les canaux (Email, Push Notifications Mobile et Web, SMS, Messages In-App) et de se connecter facilement aux autres plateformes MarTech (CDPs, Analytics, etc.).\n\nLa Tech chez Batch est organisée en squads: 3 squads métiers, 1 squad Infra et 1 squad Platform.\n\nConcrètement, notre stack technique ressemble à ça : une architecture microservices où Kafka est central pour nos flux de données. On code principalement en Go et Java. Pour nos bases de données, c'est un cocktail de Cassandra, Clickhouse, Redis, et MariaDB, choisi selon les besoins. Le tout est bien sûr conteneurisé avec Docker et orchestré par Kubernetes.\n\nLe/la Backend Engineer travaille pour faire évoluer le produit de Batch afin de gérer plus de clients, plus de données, et d'améliorer la performance globale de la plateforme. Un véritable challenge au quotidien !\n\n\n\n\n\nPar essence nous sommes très ouverts à la découverte de nouvelles technologies et nous serions ravis d’accueillir des idées nouvelles.\n\nRejoindre nos équipes c’est être confronté à des challenges toujours grandissants et de les résoudre avec brio.\n\n\n\n\n\n\n\n\n\n\n\nBatch réalise ses entretiens en plusieurs étapes simples & lisibles pour tous les candidats:",
+      "technologies": [
+        "Java",
+        "Go",
+        "R"
+      ],
+      "frameworks": [],
+      "certifications": [
+        "Docker",
+        "Kubernetes"
+      ],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/back-end-software-engineer-junior-at-batch-4237623957?position=1&pageNum=0&refId=LvJVbJ8avlkp8vrVmowgXw%3D%3D&trackingId=zWmTrE6W4C7Hj7dnYcpozw%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "La team platform s’agrandit et recherche son/sa futur·e Machine Learning Engineer 👋\n\nBatch souhaite accélérer sa stratégie IA pour 2025 et au‑delà. Le/la futur·e Machine Learning Engineer, aura un rôle hybride mêlant modélisation et construction de plateforme :\n\n\n\nLa part de travail consacrée à la modélisation pourra varier selon les projets, certains cycles étant plus orientés plateforme et industrialisation, d’autres davantage centrés sur le développement de nouveaux modèles.\n\nLe poste est hébergé au sein de l’équipe , dont la mission est de créer des socles techniques réutilisables au service de toutes les équipes produit. L’équipe est et le/la futur.e Machine Learning Engineer reportera directement à Rémi.\n\nLa construction de cette future ML Platform s’intègera autour de notre stack backend existante : une architecture micro‑services en Go et Java, largement orientée autour de Kafka, et reposant sur plusieurs bases de données orientées haute volumétrie telles que Cassandra ou ClickHouse.\n\nTout en s’inscrivant dans cet environnement, le rôle offre la , dans un contexte où la plateforme reste à construire.\n\nCette stack s’exécute sur une infrastructure opérée en interne, offrant tous les avantages du cloud tout en étant déployée sur un .\n\nLes pratiques d’ **(LLM et Foundation Models) sont déjà amorcées et animées en interne. Sans que ce soit un pré-requis, le/la futur·e Machine Learning Engineer pourra également y contribuer en fonction des besoins et des opportunités.\n\n👉 Missions :\n\nde machine learning pour répondre à nos cas d’usage stratégiques.\n\n\n\npour faciliter l’expérimentation, l’industrialisation et le déploiement des modèles.\n\n\n\npour assurer une intégration fluide des modèles et la cohérence technique globale.\n\n(LLM et Foundation Models) en coordination avec les personnes déjà impliquées.\n\nLe plus\n\n\n\n👉 Profil recherché :\n\n\n\n👉 Process de recrutement :\n\nBatch réalise ses entretiens, en plusieurs étapes simples & lisibles pour tous les candidats :",
+      "technologies": [
+        "Java",
+        "Go",
+        "R"
+      ],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/machine-learning-engineer-at-batch-4276894826?position=1&pageNum=0&refId=tm2YBykcucWyTHaAe18cDw%3D%3D&trackingId=wWzhlz8O1SXbvRUTDkzoIg%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "La team platform s’agrandit et recherche son/sa futur·e Machine Learning Engineer 👋\n\nBatch souhaite accélérer sa stratégie IA pour 2025 et au‑delà. Le/la futur·e Machine Learning Engineer, aura un rôle hybride mêlant modélisation et construction de plateforme :\n\n\n\nLa part de travail consacrée à la modélisation pourra varier selon les projets, certains cycles étant plus orientés plateforme et industrialisation, d’autres davantage centrés sur le développement de nouveaux modèles.\n\nLe poste est hébergé au sein de l’équipe , dont la mission est de créer des socles techniques réutilisables au service de toutes les équipes produit. L’équipe est et le/la futur.e Machine Learning Engineer reportera directement à Rémi.\n\nLa construction de cette future ML Platform s’intègera autour de notre stack backend existante : une architecture micro‑services en Go et Java, largement orientée autour de Kafka, et reposant sur plusieurs bases de données orientées haute volumétrie telles que Cassandra ou ClickHouse.\n\nTout en s’inscrivant dans cet environnement, le rôle offre la , dans un contexte où la plateforme reste à construire.\n\nCette stack s’exécute sur une infrastructure opérée en interne, offrant tous les avantages du cloud tout en étant déployée sur un .\n\nLes pratiques d’ **(LLM et Foundation Models) sont déjà amorcées et animées en interne. Sans que ce soit un pré-requis, le/la futur·e Machine Learning Engineer pourra également y contribuer en fonction des besoins et des opportunités.\n\n👉 Missions :\n\nde machine learning pour répondre à nos cas d’usage stratégiques.\n\n\n\npour faciliter l’expérimentation, l’industrialisation et le déploiement des modèles.\n\n\n\npour assurer une intégration fluide des modèles et la cohérence technique globale.\n\n(LLM et Foundation Models) en coordination avec les personnes déjà impliquées.\n\nLe plus\n\n\n\n👉 Profil recherché :\n\n\n\n👉 Process de recrutement :\n\nBatch réalise ses entretiens, en plusieurs étapes simples & lisibles pour tous les candidats :",
+      "technologies": [
+        "Java",
+        "Go",
+        "R"
+      ],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/machine-learning-engineer-at-batch-4276894826?position=1&pageNum=0&refId=NMmtrhcCU7wIDR8IOYxJ1g%3D%3D&trackingId=XiOsIoBDPmSf4UegM6Xo2A%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "La team Engineering s’agrandit et recherche son/sa futur·e Site Reliability Engineer 👋\n\nBatch est une destinée aux grandes entreprises du secteur B2C (retail, médias, luxe, banques, services) avec des millions de profils clients. Elle permet aux équipes marketing de recueillir et d’unifier la donnée client partout où elle se trouve via des APIs et des SDKs, de communiquer nativement via tous les canaux (Email, Push Notifications Mobile et Web, SMS, Messages In-App) et de se connecter facilement aux autres plateformes MarTech (CDPs, Analytics, etc.).\n\nL'Engineering chez Batch est organisée en squads: 3 squads métiers, 1 squad Infra et 1 squad Platform.\n\nLe/la Site Reliability Engineer aura pour mission de construire, de maintenir et d’améliorer de façon continue notre plateforme.\n\nQuelques informations sur notre infrastructure :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDu fait de notre choix d’opérer notre propre infrastructure, de nombreux fondamentaux systèmes, doublés d’une volonté d’automatiser pour assurer la montée en charge :\n\n: BGP, Routing avancé, VPN, NAT, Quagga, nftables\n\n: HAProxy, Debian, Kubernetes, Cilium, DirectPV, KeaDHCP, Docker, Kafka, etcd, Cassandra, MariaDB, Clickhouse, Redis, Proxmox, Consul, Traefik\n\n: Ansible, Pulumi, Terraform, ArgoCD\n\n: VictoriaMetrics, Tempo, Grafana, AlertManager\n\n\n\n\n\n\n\nLe poste est basé à Lyon où se trouve 90% de l’équipe infra.\n\n\n\nBatch réalise ses entretiens, en plusieurs étapes simples & lisibles pour tous les candidats :",
+      "technologies": [
+        "Go",
+        "R"
+      ],
+      "frameworks": [],
+      "certifications": [
+        "Docker",
+        "Kubernetes"
+      ],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/site-reliability-engineer-at-batch-4267388985?position=1&pageNum=0&refId=vQwE%2BlxCGA4VrlxSib3xCA%3D%3D&trackingId=pkMKH2g8I5hHgQAKQ2Kicw%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "Rejoignez l’équipe de Maxime, où vous serez immergé(e) au cœur d’une Business Unit dédiée aux études de grands projets dans le domaine du digital.\n\nNous recherchons un Développeur Full Stack talentueux pour rejoindre notre équipe à Lyon, France. En tant que membre clé de notre équipe de développement, vous travaillerez sur des projets de pointe, en mettant à profit votre expertise des technologies front-end et back-end pour créer des applications robustes et évolutives.\n\n\n\n\n\nRejoignez la et faites partie d'une aventure digitale passionnante au cœur de !\n\n\n\n,\n\n\n\n\n\n,",
+      "technologies": [
+        "R"
+      ],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-full-stack-h-f-at-l-usine-nouvelle-4062801731?position=1&pageNum=0&refId=mB%2Bkvy7aCMtUobLMtUoX1g%3D%3D&trackingId=Qm7BuJSVmzDFxce1xwAT8A%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-python-h-f-at-fortil-3872588438?position=1&pageNum=0&refId=RQP%2FeJjUFalQKhQ%2FMJexWA%3D%3D&trackingId=RDSOcVzqTGKwkTjAZQ8N2A%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/ai-ml-engineer-at-leonar-4282025860?position=1&pageNum=0&refId=0DjP%2BiNDsZTaixsBR9PrnQ%3D%3D&trackingId=%2Bq28wJ2Reg8xHwshmku32w%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/ai-ml-engineer-at-leonar-4282025860?position=1&pageNum=0&refId=0ETd8PcIhRCnL0ibKOnXlQ%3D%3D&trackingId=I2iTTwr9zrlBHV%2BOJkilkQ%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/devops-h-f-at-audensiel-4280640220?position=1&pageNum=0&refId=qwDCnoHr0Xp6G6OlNOIkEQ%3D%3D&trackingId=VkPIsWGFVEotdDBhMFcERw%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/backend-developer-at-sparklab-4076621749?position=1&pageNum=0&refId=oA5MEKdBZOK3j1IKtDQGBA%3D%3D&trackingId=t%2F2LASUvz1PKZydVy1d%2BYw%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-python-h-f-at-objectware-4231875674?position=1&pageNum=0&refId=qQBtFebV90G6QL6bA76Iew%3D%3D&trackingId=5pEuOWcFbr%2BlIko%2Bdput%2Fw%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/data-scientist-f-h-nb-at-valeuriad-4256665672?position=1&pageNum=0&refId=MHlTnwQ4aey%2FrBUMbZEIDg%3D%3D&trackingId=dYrhiqim7nFOXGvQ5jN%2BVg%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/data-scientist-h-f-nantes-at-avisia-4250257572?position=1&pageNum=0&refId=tR4PNwiaSsdVgTCczU7qyQ%3D%3D&trackingId=v49T2oS4fOQFg7ZWTWzCGw%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/cloud-engineer-devops-f-h-nantes-at-sfeir-4270599756?position=1&pageNum=0&refId=uzofGLZ5MIcHGzx545KvGQ%3D%3D&trackingId=1SxE4yzV6MYJElQwgXMmEw%3D%3D"
+    },
+    {
+      "title": "",
+      "company": "",
+      "location": "",
+      "description": "",
+      "technologies": [],
+      "frameworks": [],
+      "certifications": [],
+      "salary_range": "",
+      "date_posted": "2025-08-12",
+      "recruiter": "",
+      "url": "https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-javascript-h-f-at-amiltone-4282148511?position=1&pageNum=0&refId=jz%2Bty5ZZvgss3MHJ5rfTEQ%3D%3D&trackingId=DkYMSGKlYjikO3%2BMjIp%2BrA%3D%3D"
+    }
+  ]
+}
